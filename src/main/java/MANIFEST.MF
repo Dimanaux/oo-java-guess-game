@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Dmitry Barskov
+Signature-Version: SNAPSHOT-1.0
+Main-Class: com.example.GuessGame
